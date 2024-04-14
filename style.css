@@ -15,7 +15,7 @@ body {
   position: relative;
 }
 a {
-  color: #311047;
+  color: #4682b4;
   text-decoration: none;
 }
 #textbox {
@@ -46,7 +46,7 @@ a {
 .ui-close-btn {
   font-family: monogram, monospace;
   border-style: none;
-  border-radius: 3px;
+  border-radius: 10px;
   padding: 1rem;
   cursor: pointer;
   font-size: inherit;
